@@ -82,6 +82,7 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 4.1 - Learn about Replay](exercises/ex4/README.md#exercise-41-learn-about)
     - [Exercise 4.2 - Experimenting with Replay](exercises/ex4/README.md#exercise-42-experimenting-with-replay)
 
+<!-- 
 - [Exercise 5 - The Event-Driven Hockey Stick](exercises/ex5/)
 
     - [Exercise 5.1 - Learn about the Event-Driven Hockey Stick](exercises/ex5/README.md#exercise-51-learn-about)
@@ -92,6 +93,7 @@ SAP Integration Suite, advanced event mesh
 
     - [Exercise 6.1 - The Event Add-On for ERP](exercises/ex6/README.md#exercise-61-event-add-on-for-erp)
     - [Exercise 6.2 - Consume Custom Events from SAP S/4HANA via the Event Add-On ](exercises/ex6/README.md#exercise-52-consume-events-from-SAP-S/4HANA)
+    -->
 
 ## User Data and Password
 
