@@ -63,4 +63,4 @@ For more information about Replay and/or acknowledging messages, check the follo
 
 You've now explored Event Message Replay and seen how an adminstrator can replay messages that were published previously for a consumer.
 
-Continue to - [Exercise 5 - The Event-Driven Hockey Stick](../ex5/README.md)
+With this you have completed your journey through exploring the basics of running an Advanced Event Mesh service!
