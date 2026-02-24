@@ -1,6 +1,6 @@
 # San Ramon Partner Workshop -- Experience event-driven integration with advanced event mesh
 
-![Pic 1](images/IN165-1.png)
+![Pic 1](images/SRM-Intro-Banner.png)
 
 ## Description
 
