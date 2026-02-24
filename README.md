@@ -1,4 +1,4 @@
-# IN 165 - Experience event-driven integration with advanced event mesh
+# San Ramon Partner Workshop -- Experience event-driven integration with advanced event mesh
 
 ![Pic 1](images/IN165-1.png)
 
@@ -105,7 +105,7 @@ The password will be provided to you by the moderators.
 
 ## Background Material
 
-In case that you would like to dig deeper into event-driven architecture: a lot of material to get up to speed with SAP Integration Suite, advanced event mesh and EDA in general is available. Please find a selection below:
+In case you would like to dig deeper into event-driven architecture: a lot of material to get up to speed with SAP Integration Suite, advanced event mesh and EDA in general is available. Please find a selection below:
 
 - Introduction Slide Decks
 
