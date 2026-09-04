@@ -41,7 +41,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 
 
-![Pic 2](../../images/ex2-2.png)
+![Pic 2](../../images/PA-ex2-2.png)
 
 ## Exercise 2.2 Practice Topic Hierarchies and Wildcards using Try Me ! 
 
@@ -67,7 +67,7 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 3. Check out the hierarchical categorization of <b> Berlin-related </b> topics below
    
 
-![Pic 6](../../images/ex2-6.png)
+![Pic 6](../../images/PA-ex2-6.png)
 
 Now try out different combinations of publishing to a topic and listening to a topic and see which events you receive.
 
