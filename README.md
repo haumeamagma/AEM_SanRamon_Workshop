@@ -1,6 +1,6 @@
-# San Ramon Partner Workshop -- Experience event-driven integration with advanced event mesh
+# Palo Alto Partner Workshop -- Experience event-driven integration with advanced event mesh
 
-![Pic 1](images/SRM-Intro-Banner.png)
+![Pic 1](images/PA-Intro-Banner.png)
 
 ## Description
 
