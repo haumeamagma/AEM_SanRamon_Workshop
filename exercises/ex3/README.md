@@ -38,7 +38,7 @@ So, let's open up the `Try-Me` tool used in the last exercise.
 
 1. Remove all subscriptions from your subscriber and clear the messages
 
-![Publish 1](images/ex3-1.png)
+![Publish 1](images/PA-ex3-1.png)
 
 2. Enter the topic into the topic field for the publisher. Use topic_user_XXX as the topic, and replace XXX with your group/participant number. And publish one message as direct.
 ![Publish 1](images/ex3-7.png)
