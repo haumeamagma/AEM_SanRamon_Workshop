@@ -47,7 +47,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 Now that we have learned about topic hierarchies and have a great tool like Try Me! at hand — let's play around with topic hierarchies.
 
-![Pic 5](../../images/PA-ex2-5.png)
+![Pic 5](../../images/PA-ex2-5.jpg)
 
 For this exercise, we will use **San Francisco topics** — giving you the chance to learn about topic hierarchies and the city at the same time.
 
