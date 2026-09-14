@@ -47,7 +47,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 Now that we have learned about topic hierarchies and have a great tool like Try Me! at hand — let's play around with topic hierarchies.
 
-![Pic 5](../../images/ex2-5.png)
+![Pic 5](../../images/PA-ex2-5.png)
 
 For this exercise, we will use **San Francisco topics** — giving you the chance to learn about topic hierarchies and the city at the same time.
 
@@ -89,7 +89,7 @@ Now try out different combinations of publishing to a topic and listening to a t
 
    Subscribe the consumer to the topic: <b>city/sanfrancisco/food/traditional/clam_chowder/*</b>
 
-![Pic 7](../../images/ex2-7a.png)
+![Pic 7](../../images/PA-ex2-7a.png)
 
 6. Send a `clam_chowder.ready` event to the topic <b>city/sanfrancisco/food/traditional/clam_chowder/ready</b>
 
@@ -102,22 +102,22 @@ Now try out different combinations of publishing to a topic and listening to a t
    Price: $5
    ```
 
-![Pic 7b](../../images/ex2-7b.png)
+![Pic 7b](../../images/PA-ex2-7b.png)
 
    You should receive the message.
 
-![Pic 8](../../images/ex2-8.png)
+![Pic 8](../../images/PA-ex2-8.png)
 
 7. Now we want to learn about all sights being open.
 
    - Go to the Subscriber
    - Delete the topics you are currently listening to
 
-![Pic 9](../../images/ex2-9.png)
+![Pic 9](../../images/PA-ex2-9.png)
 
    - Subscribe to `city/sanfrancisco/sights/*/*/open`
 
-![Pic 10](../../images/ex2-10.png)
+![Pic 10](../../images/PA-ex2-10.png)
 
    - Send a `golden_gate.open` event via <b>city/sanfrancisco/sights/monuments/golden_gate/open</b>
 
@@ -128,7 +128,7 @@ Now try out different combinations of publishing to a topic and listening to a t
    Status: Open
    ```
 
-![Pic 11](../../images/ex2-11.png)
+![Pic 11](../../images/PA-ex2-11.png)
 
 8. Try out a few combinations on your own and see what works and what does not.
 
